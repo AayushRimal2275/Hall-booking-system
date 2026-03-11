@@ -1,0 +1,2 @@
+B001|customer1|Auditorium|2026-03-15|09:00|12:00|900.0|Pending
+B002|customer1|Meeting Room|2026-03-16|14:00|16:00|100.0|Approved
