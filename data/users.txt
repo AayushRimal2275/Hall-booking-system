@@ -1,0 +1,4 @@
+admin|admin123|Admin|System Administrator|||
+scheduler1|sched123|Scheduler|John Scheduler|||EMP001
+customer1|cust123|Customer|Jane Customer|jane@email.com|0123456789|
+manager1|mgr123|Manager|Mike Manager|||
